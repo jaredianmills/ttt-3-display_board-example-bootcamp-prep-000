@@ -1,6 +1,6 @@
 def display_board
-  cells = ["   ", "|", "   ", "|", "   "]
-  lines = '-----------'
+  cells = "   |   |   "
+  lines = "-----------"
   print cells
   print lines
   print cells
