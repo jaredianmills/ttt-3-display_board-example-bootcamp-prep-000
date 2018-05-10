@@ -1,9 +1,9 @@
 def display_board
   cells = ["   ", "|", "   ", "|", "   "]
-  lines = 11.times(print '-')
+  lines = '-----------'
   print cells
-  lines
+  print lines
   print cells
-  lines
+  print lines
   print cells
 end
