@@ -1,9 +1,9 @@
 def display_board
   cells = "   |   |   "
-  lines = "----------"
-  puts cells
-  puts lines
-  puts cells
-  puts lines
-  puts cells
+  lines = "-----------"
+  print cells
+  print lines
+  print cells
+  print lines
+  print cells
 end
